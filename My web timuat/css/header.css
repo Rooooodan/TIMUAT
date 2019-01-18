@@ -1,0 +1,21 @@
+.header {
+	padding: 60px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font: Century-Gothic;
+}
+.header1 {
+	padding: 60px;
+	text-align: Left;
+	color: white;
+	font-size: 30px;
+	font: Courier ,Courier-New;
+}
+.header2{
+	padding: 60px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font: Century-Gothic;
+}
